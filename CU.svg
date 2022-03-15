@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="-80 -80 220 320"
+   version="1.1"
+   id="svg64"
+   sodipodi:docname="CU.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs66" />
+  <sodipodi:namedview
+     showgrid="true"
+     id="namedview4"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:snap-global="true"
+     inkscape:snap-bbox="true"
+     inkscape:zoom="5.2"
+     inkscape:cx="1.9230769"
+     inkscape:cy="220.28846"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g17-3">
+    <inkscape:grid
+       type="xygrid"
+       empspacing="4"
+       spacingx="5"
+       spacingy="5"
+       id="grid2" />
+  </sodipodi:namedview>
+  <rect
+     stroke="#000000"
+     stroke-width="5.99219"
+     fill="#ffffb4"
+     fill-opacity="0.784314"
+     x="-60"
+     y="-40"
+     width="180"
+     height="240"
+     id="rect6" />
+  <text
+     id="label"
+     fill="#000000"
+     font-size="24px"
+     text-anchor="middle"
+     x="-15.43734"
+     y="78.328178">Label</text>
+  <g
+     id="g12"
+     transform="translate(73.016827,178.4375)">
+    <circle
+       fill="#0000b2"
+       id="pin:F_in"
+       cx="46.923077"
+       cy="1.4423077"
+       r="3" />
+    <text
+       fill="#808080"
+       font-size="18px"
+       x="16.578342"
+       y="6"
+       id="text10">F_in</text>
+  </g>
+  <g
+     id="g17-3"
+     transform="translate(62.362443,-45.00541)">
+    <circle
+       fill="#0000b2"
+       id="pin:OPC"
+       cx="-122.37795"
+       cy="185.01416"
+       r="3" />
+    <circle
+       fill="#0000b2"
+       id="pin:CLK"
+       cx="-122.37795"
+       cy="225.39877"
+       r="3" />
+    <circle
+       fill="#0000b2"
+       id="pin:ADMD"
+       cx="-122.42362"
+       cy="144.92384"
+       r="3" />
+    <text
+       fill="#808080"
+       font-size="18px"
+       x="-116.67307"
+       y="191.48077"
+       id="text15-5">OPC</text>
+    <text
+       fill="#808080"
+       font-size="18px"
+       x="-116.48077"
+       y="231.86539"
+       id="text15-5-1">CLK</text>
+    <text
+       fill="#808080"
+       font-size="18px"
+       x="-116.67307"
+       y="152.05769"
+       id="text15-5-4">ADMD</text>
+  </g>
+  <g
+     id="g22"
+     transform="translate(59.968094,-0.27196414)">
+    <circle
+       fill="#b20000"
+       id="pin:ADR EN"
+       cx="60"
+       cy="0"
+       r="3" />
+    <text
+       fill="#808080"
+       font-size="18px"
+       text-anchor="end"
+       x="56"
+       y="6"
+       id="text20">ADR EN</text>
+  </g>
+  <g
+     id="g27"
+     transform="translate(59.832112,-0.13598207)">
+    <circle
+       fill="#b20000"
+       id="pin:LIT EN"
+       cx="60"
+       cy="20"
+       r="3" />
+    <text
+       fill="#808080"
+       font-size="18px"
+       text-anchor="end"
+       x="56"
+       y="26"
+       id="text25">LIT EN</text>
+  </g>
+  <g
+     id="g32"
+     transform="translate(60.072497,19.957786)">
+    <circle
+       fill="#b20000"
+       id="pin:SRW"
+       cx="60"
+       cy="40"
+       r="3" />
+    <text
+       fill="#808080"
+       font-size="18px"
+       text-anchor="end"
+       x="56"
+       y="46"
+       id="text30">SRW</text>
+  </g>
+  <g
+     id="g37"
+     transform="translate(60.0124,20.017882)">
+    <circle
+       fill="#b20000"
+       id="pin:ACCW"
+       cx="60"
+       cy="60"
+       r="3" />
+    <text
+       fill="#808080"
+       font-size="18px"
+       text-anchor="end"
+       x="56"
+       y="66"
+       id="text35">ACCW</text>
+  </g>
+  <g
+     id="g42"
+     transform="translate(59.968802,39.974959)">
+    <circle
+       fill="#b20000"
+       id="pin:LOAD EN"
+       cx="60"
+       cy="80"
+       r="3" />
+    <text
+       fill="#808080"
+       font-size="18px"
+       text-anchor="end"
+       x="56"
+       y="86"
+       id="text40">LOAD EN</text>
+  </g>
+  <g
+     id="g47"
+     transform="translate(59.69613,39.97873)">
+    <circle
+       fill="#b20000"
+       id="pin:UNLD EN"
+       cx="60"
+       cy="100"
+       r="3" />
+    <text
+       fill="#808080"
+       font-size="18px"
+       text-anchor="end"
+       x="56"
+       y="106"
+       id="text45">UNLD EN</text>
+  </g>
+  <g
+     id="g52"
+     transform="rotate(-90,-50.09668,70.015888)">
+    <circle
+       fill="#b20000"
+       id="pin:MEM WR"
+       cx="60"
+       cy="120"
+       r="3" />
+    <text
+       fill="#808080"
+       font-size="18px"
+       text-anchor="end"
+       x="56"
+       y="126"
+       id="text50">MEM WR</text>
+  </g>
+  <g
+     id="g56"
+     transform="rotate(-90,-60.096678,80.015889)">
+    <circle
+       fill="#b20000"
+       id="pin:MEM R"
+       cx="60"
+       cy="120"
+       r="3" />
+    <text
+       fill="#808080"
+       font-size="18px"
+       text-anchor="end"
+       x="56"
+       y="126"
+       id="text50-1">MEM RD</text>
+  </g>
+  <g
+     id="g57"
+     transform="rotate(-90,-50.099757,70.000641)">
+    <circle
+       fill="#b20000"
+       id="pin:PC OW"
+       cx="60"
+       cy="140"
+       r="3" />
+    <text
+       fill="#808080"
+       font-size="18px"
+       text-anchor="end"
+       x="56"
+       y="146"
+       id="text55">PC OW</text>
+  </g>
+  <g
+     id="g62"
+     transform="rotate(-90,-90.114859,109.9766)">
+    <circle
+       fill="#b20000"
+       id="pin:PCCLK"
+       cx="60"
+       cy="160"
+       r="3" />
+    <text
+       fill="#808080"
+       font-size="18px"
+       text-anchor="end"
+       x="56"
+       y="166"
+       id="text60">PCCLK</text>
+  </g>
+</svg>

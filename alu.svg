@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="-80 -80 220 220"
+   version="1.1"
+   id="svg39"
+   sodipodi:docname="alu.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs41" />
+  <sodipodi:namedview
+     showgrid="true"
+     id="namedview4"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:zoom="2.3636364"
+     inkscape:cx="-55.211538"
+     inkscape:cy="201.59615"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg39">
+    <inkscape:grid
+       type="xygrid"
+       empspacing="4"
+       spacingx="5"
+       spacingy="5"
+       id="grid2" />
+  </sodipodi:namedview>
+  <g
+     id="rect6">
+    <path
+       style="color:#000000;fill:#ffffb4;fill-opacity:0.784314;stroke-width:4;-inkscape-stroke:none"
+       d="m -60,-20 h 47.5 L 0,5 H 40 L 52.5,-20 H 100 L 65,80 h -90 z"
+       id="path1005"
+       sodipodi:nodetypes="ccccccccc" />
+    <path
+       style="color:#000000;fill:#000000;-inkscape-stroke:none"
+       d="m -65,-22.961538 36.287018,104.9893 96.906871,0.717629 L 105,-22.961538 H 50 L 38.097428,0.1495803 1.8063492,0 -10,-22.961538 Z m 8.519231,5 H -12.5 L 0,5 h 40 l 12.094124,-22.811958 45.12703,0.06196 -32.28833,95.076921 h -90.038593 z"
+       id="path1007"
+       sodipodi:nodetypes="cccccccccccccccccc" />
+  </g>
+  <text
+     id="label"
+     fill="#000000"
+     font-size="24px"
+     text-anchor="middle"
+     x="19"
+     y="27.384615">Label</text>
+  <g
+     id="g12"
+     transform="translate(-39.721993,39.86717)">
+    <circle
+       fill="#0000b2"
+       id="pin:OPC"
+       cx="-0.42758727"
+       cy="0.13282999"
+       r="3" />
+    <text
+       fill="#808080"
+       font-size="12.0085px"
+       x="5.8639245"
+       y="3.970552"
+       id="text10"
+       transform="scale(0.99515369,1.0048699)"
+       style="stroke-width:0.66714">OPC</text>
+  </g>
+  <g
+     id="g17"
+     transform="rotate(90,2.6817342,-15.105291)">
+    <circle
+       fill="#0000b2"
+       id="pin:OP"
+       cx="-2.1153846"
+       cy="20.10577"
+       r="3" />
+    <text
+       fill="#808080"
+       font-size="18px"
+       x="4"
+       y="26"
+       id="text15"
+       style="white-space:pre;inline-size:0"
+       transform="rotate(-90,14.54007,21.616668)">OP</text>
+  </g>
+  <g
+     id="g22"
+     transform="rotate(90,66.62425,46.507906)">
+    <circle
+       fill="#0000b2"
+       id="pin:ACC"
+       cx="0"
+       cy="40"
+       r="3" />
+    <text
+       fill="#808080"
+       font-size="18px"
+       x="-60.135628"
+       y="20.028584"
+       id="text20"
+       transform="rotate(-90)">ACC</text>
+  </g>
+  <g
+     id="g27"
+     transform="translate(80.187485,-20.355373)">
+    <circle
+       fill="#0000b2"
+       id="pin:F_in"
+       cx="-0.18748499"
+       cy="60.255375"
+       r="3" />
+    <text
+       fill="#808080"
+       font-size="9.36991px"
+       x="-25.455097"
+       y="63.538784"
+       id="text25"
+       transform="scale(1.0323636,0.96865097)"
+       style="stroke-width:0.52055">F_in</text>
+  </g>
+  <g
+     id="g32"
+     transform="translate(-63.423107,76.530662)">
+    <circle
+       fill="#b20000"
+       id="pin:R"
+       cx="61.423107"
+       cy="3.4693379"
+       r="3" />
+    <text
+       fill="#808080"
+       font-size="18px"
+       text-anchor="end"
+       x="67.361122"
+       y="-3.4657013"
+       id="text30">R</text>
+  </g>
+  <g
+     id="g37"
+     transform="translate(12.72967,28.154494)">
+    <circle
+       fill="#b20000"
+       id="pin:F_out"
+       cx="27.27033"
+       cy="51.845505"
+       r="3" />
+    <text
+       fill="#808080"
+       font-size="8.70052px"
+       text-anchor="end"
+       x="38.68055"
+       y="41.13414"
+       id="text35"
+       transform="scale(0.98963456,1.010474)"
+       style="stroke-width:0.483362">F_out</text>
+  </g>
+</svg>
